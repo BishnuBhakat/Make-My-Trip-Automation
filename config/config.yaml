@@ -1,0 +1,4 @@
+url: "https://www.makemytrip.com/"
+browser: "chrome"
+implicit_wait: 10
+explicit_wait: 20
